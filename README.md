@@ -28,7 +28,7 @@ This project goes beyond simple data logging by incorporating resilient hardware
 
 ---
 
-## 🧠 System Architecture: Animated Data Flow
+## 🧠 System Architecture: Climate Monitoring System
 
 The system is designed around a distributed network of sensor nodes reporting to a central edge gateway, powered by a robust, autonomous power management system.
 
