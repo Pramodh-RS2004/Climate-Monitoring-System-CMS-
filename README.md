@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=2ecc71&center=true&vCenter=true&width=900&height=60&lines=🌱+LoRa-Based+Climate+Monitoring+System+🌍;+   Multi-Sensor+Integration+%7C+Real-Time+Data+Acquisition" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=2ecc71&center=true&vCenter=true&width=900&height=60&lines=🌱+LoRa-Based+Climate+Monitoring+System+🌍;+  +Multi-Sensor+Integration+%7C+Real-Time+Data+Acquisition" alt="Typing Animation" />
 </h1>
 
 ---
