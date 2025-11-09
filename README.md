@@ -33,7 +33,7 @@ This project goes beyond simple data logging by incorporating resilient hardware
 The system is designed around a distributed network of sensor nodes reporting to a central edge gateway, powered by a robust, autonomous power management system.
 
 <p align="center">
-  <img src="https://github.com/Pramodh-RS2004/Dual-Channel-MOSFET-Power-Switching-Circuit/assets/1234567/83a48e89-1834-45e0-994c-e8379f8260d8" alt="Animated Block Diagram showing flow from Sensors to Edge Node to Cloud" width="800" />
+  <img src="Climate Monitorig System" alt="Animated Block Diagram showing flow from Sensors to Edge Node to Cloud" width="800" />
 </p>
 
 ### 📡 Data Acquisition Path
@@ -69,16 +69,7 @@ The Edge Gateway and communication modules are powered by a redundant system for
 
 ---
 
-## 📂 Design Files & Documentation
-| File / Directory | Description |
-| :--- | :--- |
-| `Hardware_Schematics/` | Complete schematics for Sensor Nodes and Dual Power Module (Altium source files). |
-| `PCB_Layout/` | Finalized PCB layout files (Gerbers) for manufacturing. |
-| `Embedded_Code/` | Firmware for sensor data acquisition and LoRa transmission (C/C++). |
-| `Gateway_Code/` | Linux application code for data aggregation and cloud push (Python/C). |
-| `project_report.pdf` | **Detailed system design and validation report.** |
 
----
 
 ## 👨‍💻 Author & Contact
 **Pramodh R S**  
