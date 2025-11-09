@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Project%20Type-IoT%20%7C%20Embedded%20Systems-blueviolet?style=for-the-badge&logo=internet-explorer" alt="IoT Project" />
-  <img src="https://img.shields.io/badge/Communication-LoRaWAN-4C9C1B?style=for-the-badge&logo=lora" alt="LoRaWAN" />
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=github" alt="Status Completed" />
-</p>
+
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=2ecc71&center=true&vCenter=true&width=900&height=60&lines=🌱+LoRa-Based+Climate+Monitoring+System+🌍;Multi-Sensor+Integration+%7C+Real-Time+Data+Acquisition" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=2ecc71&center=true&vCenter=true&width=900&height=60&lines=🌱+LoRa-Based+Climate+Monitoring+System+🌍;+   Multi-Sensor+Integration+%7C+Real-Time+Data+Acquisition" alt="Typing Animation" />
 </h1>
 
 ---
